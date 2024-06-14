@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+I'm+Nikita+Korovin!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Nikita+Korovin!)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kitos87&theme=radical)](https://git.io/streak-stats)
 
